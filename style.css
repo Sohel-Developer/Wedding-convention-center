@@ -1,15 +1,13 @@
-*{
+* {
     font-family: 'Poppins', sans-serif;
 }
+
 /*  */
-.header__title{
+.header__title {
     font-weight: 600;
     font-size: 48px;
 }
 
-.header__des{
+.header__des {
     font-weight: 300;
-}
-.banner{
-    bottom: 6rem !important;
 }
