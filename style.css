@@ -11,3 +11,10 @@
 .header__des {
     font-weight: 300;
 }
+.hot-badge{
+    top: 0;
+    background-color: red;
+    color: white;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
